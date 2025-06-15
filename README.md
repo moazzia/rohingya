@@ -1,2 +1,2 @@
-# update link
-app update link
+# why are you still here?
+😳
