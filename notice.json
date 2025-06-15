@@ -1,4 +1,7 @@
 {
+"notification": {
+"message": "📢 تم تحديث التطبيق! افتح الآن لمشاهدة الجديد."
+}
 "NoticeTitle": "🔔",
 "Show": "false",
 "Disabled": "true",
