@@ -1,10 +1,8 @@
 {
-"notification": {
-"message": "hi moaz 😎"
-},
+"notification": "hi moaz 😎",
+"DisabledResearch": "true",
 "NoticeTitle": "🔔",
-"Show": "false",
-"Disabled": "true",
+"ShowNotice": "false",
 "NoticeMessage": "إنضم إلينا للمزيد من التحديثات!\n follow us for more updates",
 "NoticeOk": "Tiktok\n تيكتوك",
 "NoticeOk2": "Telegram\n تليغرام",
