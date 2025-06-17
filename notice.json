@@ -1,7 +1,7 @@
 {
 "notification": "hello moaz 😎",
-"DisabledResearch": "true",
-"DisabledPodcast": "true",
+"DisabledResearch": "false",
+"DisabledPodcast": "false",
 "ShowNotice": "false",
 "NoticeTitle": "🔔",
 "NoticeMessage": "إنضم إلينا للمزيد من التحديثات!\n follow us for more updates",
