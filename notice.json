@@ -1,5 +1,5 @@
 {
-"notification": "",
+"notification": "دراسة جديدة عن الخدمات الإلكترونية.",
 "DisabledResearch": "false",
 "DisabledPodcast": "false",
 "ShowNotice": "false",
@@ -16,6 +16,6 @@
 "Cancelable": "false",
 "CancelButtonText": "Cancel",
 "DownloadLink": "https://play.google.com/store/apps/details?id=com.rohingya.deeshar",
-"OldVersion": "17",
+"OldVersion": "",
 "Version": "18"
 }
